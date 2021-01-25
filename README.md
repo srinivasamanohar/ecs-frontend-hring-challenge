@@ -12,7 +12,7 @@
 ### Once NodeJs is installed, Unzip the file and navigate to directory where you want to save the app
 
 ### Enter the following commands from where you have saved the app:
-> cd book_repo
+> cd ecs-frontend-hring-challenge-master
 
 > npm install
 
